@@ -1,0 +1,9 @@
+section_id	landmark_id	anatomical_structure	rna_x	rna_y	met_before_x	met_before_y	met_after_x	met_after_y
+cs12_3	L01	cranial_outer_boundary	3630.000	1749.269	3100.000	1550.000	3638.000	1755.000
+cs12_3	L02	dorsal_cranial_outer_boundary	2487.133	-422.178	2200.000	-280.000	2494.000	-416.000
+cs12_3	L03	left_lateral_body_outer_boundary	-627.178	3049.280	-390.000	2650.000	-620.000	3054.000
+cs12_3	L04	dorsal_internal_cavity_edge	1801.413	1620.697	1600.000	1450.000	1806.000	1627.000
+cs12_3	L05	pharyngeal_arch_region_inner_edge	2944.280	2634.991	2570.000	2300.000	2950.000	2638.000
+cs12_3	L06	caudal_tail_outer_tip	5158.584	2777.849	4400.000	2450.000	5164.000	2782.000
+cs12_3	L07	caudal_internal_boundary	4530.008	3363.568	3860.000	2950.000	4536.000	3369.000
+cs12_3	L08	ventral_internal_cavity_edge	2487.133	4092.146	2190.000	3550.000	2490.000	4098.000
